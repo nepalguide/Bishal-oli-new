@@ -1,0 +1,699 @@
+﻿BISHAL OLI
+Website Build Specification
+Brand Guidelines • Website Architecture • SEO • Local Dominance • Content • UX • Technical Standards
+Midnight Ink
+Authority Blue
+Champagne Gold
+Warm Ivory
+Charcoal
+Brand directionPremium, analytical, modern, calm, high-trust. The visual system should feel like an expert consultancy—not a generic marketing agency and not a flashy “SEO guru” brand.
+Strategic market: Nepal-first commercial positioning with global delivery capability.
+Primary positioning: SEO expert/consultant in Nepal specializing in Semantic SEO, Topical Authority and AI Search Optimization.
+Website goal: generate qualified Nepal leads, establish authority, sell consulting/training, demonstrate first-hand evidence, build audience/community, and create partnership opportunities.
+Source architecture: Final Website Nodes workbook containing 124 approved website nodes, including 79 P1, 39 P2 and 6 P3 nodes.
+Visual direction reference: dark premium hero + warm-light content sections + restrained electric blue accents.
+1. Executive Design & SEO Brief
+BishalOli.com should function as a personal expert platform, a Nepal-focused commercial SEO site, a research/education property, and an evidence repository. The site should not look or behave like a broad digital-marketing agency.
+Core ruleEvery page should strengthen at least one of five things: (1) Bishal Oli as an entity, (2) Semantic SEO / Topical Authority / AI Search expertise, (3) Nepal commercial relevance, (4) first-hand evidence, or (5) acquisition/education/conversion.
+Strategic objectives
+Own high-intent Nepal SEO queries through dedicated commercial pages instead of relying on a single “SEO Expert in Nepal” URL.
+Build a defensible expertise moat around Semantic SEO, Topical Authority and AI Search.
+Turn real client work, experiments and measurable outcomes into first-class website assets.
+Build local prominence through legitimate business information, genuine reviews, local mentions, partnerships and useful Nepal-specific research.
+Convert educational traffic into training, consulting and qualified SEO leads without making every page sales-heavy.
+2. Brand Positioning & Messaging System
+Brand essence
+Expert search strategy for businesses that want sustainable visibility, qualified demand and stronger search presence.
+Primary positioning
+Recommended positioningBishal Oli — SEO Expert in Nepal specializing in Semantic SEO, Topical Authority and AI Search Optimization.
+Use this as the primary market-facing position. “Technical SEO,” “Programmatic SEO,” “Entity SEO,” “Content Architecture,” and “Lead Generation SEO” are supporting capabilities—not competing brand identities.
+Value proposition
+I help businesses in Nepal build stronger organic search visibility through Semantic SEO, topical authority, technical SEO and AI Search optimization—using structured systems, first-hand testing and measurable business outcomes.
+Short version
+Semantic SEO + Topical Authority + AI Search for Nepal businesses.
+One-sentence elevator pitch
+I’m a Nepal-based SEO consultant focused on Semantic SEO, Topical Authority and AI Search, helping businesses turn search visibility into qualified traffic, leads and long-term growth.
+Messages to repeat consistently
+Nepal-first SEO consultant.
+Semantic SEO is the core methodology.
+Topical Authority is the content/architecture system.
+AI Search is the emerging search-visibility layer.
+Technical SEO provides the crawl/index/performance foundation.
+Real experiments and case studies prove the methodology.
+The objective is business growth—not rankings in isolation.
+Messages to avoid
+Generic “digital marketing agency” language.
+Claims such as “guaranteed #1 rankings” or guaranteed AI citations.
+Empty superlatives such as “the best SEO expert in the world.”
+Broad service menus unrelated to your core positioning: PPC, social media marketing, generic branding, email marketing, etc.
+City pages with only the location name changed.
+3. Brand Visual Guidelines
+3.1 Color palette
+Role
+Name
+HEX
+Usage
+Primary
+Midnight Ink
+#071A33
+Hero, header, footer, dark proof sections, major surfaces
+Primary Accent
+Authority Blue
+#1677FF
+Primary CTA, links, active states, icons, highlights
+Secondary Accent
+Champagne Gold
+#C9A96A
+Premium detail, signatures, achievement accents; use sparingly
+Background
+Warm Ivory
+#F7F4EE
+Editorial/light content backgrounds
+Text
+Charcoal
+#111827
+Primary body text on light backgrounds
+Muted Text
+Slate
+#526173
+Secondary copy, metadata, captions
+Light Accent
+Ice Blue
+#EAF3FF
+Cards, callouts, subtle backgrounds
+Border
+Cloud Gray
+#D9E2EC
+Dividers, card borders, input borders
+Success
+Emerald
+#1FA774
+Positive metrics/status
+Error
+Muted Red
+#D14D4D
+Errors/warnings only
+Recommended visual ratioUse Midnight Ink + Warm Ivory as the dominant system, Authority Blue as the action/interaction color, and Champagne Gold as a restrained premium accent. Gold should feel like a signature—not a second primary color.
+3.2 Typography
+Use
+Recommendation
+Why
+Headings
+Manrope 600–800
+Modern, technical, premium; strong at large display sizes
+Body
+Inter 400–500
+Excellent readability across long SEO/education pages
+UI / Labels
+Inter 500–700
+Compact and legible for navigation, metadata and buttons
+Numerals / Metrics
+Manrope 700–800
+Strong visual emphasis for results and data
+3.3 Typography scale
+Element
+Desktop
+Mobile
+Notes
+H1
+52–64 px
+36–44 px
+One H1 per page; outcome-led
+H2
+34–42 px
+28–32 px
+Major sections
+H3
+22–28 px
+20–24 px
+Cards/subsections
+Body
+17–18 px
+16–17 px
+Readable long-form
+Small/UI
+13–15 px
+13–14 px
+Metadata, breadcrumbs, labels
+Button
+14–16 px
+14–15 px
+Medium/semibold
+3.4 Layout language
+Use generous whitespace and a strong 12-column desktop grid.
+Preferred content width: 1120–1240 px; long-form text column: roughly 680–780 px.
+Use 12–16 px corner radii for cards and 10–12 px for controls; avoid excessive pill-shaped UI.
+Use 1 px borders and very subtle shadows. Avoid glossy “agency template” effects.
+Use dark sections strategically: hero, proof/results, selected CTA bands, footer.
+Use light editorial sections for long-form expertise and training content.
+Use blue gradients only as subtle light/glow treatments; never as the base of every component.
+3.5 Photography
+Primary portrait: high-quality professional headshot with natural expression and clean background; one consistent hero portrait should become an entity-recognition asset.
+Use Nepal imagery as contextual evidence of market identity, not as decorative tourism stock.
+Prefer editorial, authentic imagery: Kathmandu work settings, workshops, speaking, client/project context, trekking/travel projects when relevant.
+Avoid generic laptop/coffee stock images unless they add real context.
+Keep image treatment consistent: deep navy overlay only when needed, natural highlights, restrained saturation.
+3.6 Iconography & graphics
+Use a single line-icon family with consistent stroke weight.
+Prefer geometric diagrams for semantic relationships, topical maps, entity graphs and internal-linking structures.
+Use data visuals to demonstrate results rather than decorative infographics.
+Do not overload pages with icons. One strong diagram is more valuable than six decorative icons.
+4. Website Architecture & Page-System Rules
+The sitemap is already approved. This document converts it into a build architecture: global components, section rules, page templates and SEO requirements. The canonical 124-node inventory remains in the separate Final Website Nodes workbook.
+4.1 Main navigation
+Navigation item
+Purpose
+Dropdown
+Home
+Entity + value proposition
+None
+SEO
+Expertise hub
+Semantic SEO; Topical Authority; Technical SEO; Programmatic SEO; Entity SEO; Local SEO; Lead Generation
+AI Search
+Signature authority moat
+AI Search; AI Mode; AI Overviews; AI citations; visibility
+Case Studies
+Proof
+Case Studies; Experiments; Results
+Training
+Education + commercial
+SEO Training; Advanced SEO; Semantic SEO; AI Search
+Resources
+Audience acquisition
+Templates; frameworks; trackers; tools
+About
+Entity trust
+About; Experience; Methodology; Media
+Work With Me
+Primary conversion
+Consulting; Audit; Training; Contact
+4.2 Global page hierarchy
+The preferred semantic hierarchy is: Bishal Oli → SEO Expert in Nepal → Semantic SEO / Topical Authority / AI Search → supporting SEO systems → evidence → training/resources → commercial conversion.
+Navigation principleKeep the visible navigation compact. The full topical architecture should be expressed through contextual internal links, breadcrumbs, related-topic blocks and intentional hub-and-spoke relationships—not through a giant menu.
+4.3 Approved top-level section tree
+Node
+Purpose
+/
+Homepage / person + market entity
+/about/
+Person entity
+/experience/
+Experience / project proof
+/methodology/
+Signature methodology
+/seo-expert-nepal/
+National commercial primary page
+/seo-consultant-nepal/
+National consulting intent
+/seo-services-nepal/
+National service portfolio
+/local-seo-nepal/
+National local-search commercial page
+/semantic-seo-nepal/
+National signature specialization
+/topical-authority-nepal/
+National signature specialization
+/ai-search-nepal/
+National signature specialization
+/technical-seo-nepal/
+National supporting specialization
+/seo-training-nepal/
+National training commercial page
+/seo/...
+Global knowledge hubs
+/ai-search/...
+AI Search knowledge hub
+/local-seo/...
+Local SEO knowledge hub
+/case-studies/...
+Proof system
+/experiments/...
+First-hand testing
+/results/...
+Measured outcomes
+/training/...
+Education hub
+/resources/...
+Lead magnet/resource hub
+/research/...
+Original research
+/kathmandu/...
+Geographic expansion only where warranted
+/work-with-me/
+Primary conversion
+/contact/
+Conversion
+5. Page Template System
+5.1 National commercial landing page
+Eyebrow: Nepal + service/topic.
+H1: exact commercial concept + specific value proposition.
+Opening paragraph: who you help + what you solve + why the approach is different.
+Primary CTA: consultation / work with me.
+Trust strip: verifiable experience, industry coverage, outcomes, reviews.
+Problem → approach → deliverables → process → proof → FAQs/objections → CTA.
+Contextual links to the relevant knowledge hub, case studies and related Nepal pages.
+Local proof block where genuine: Kathmandu/Nepal clients, research, partnerships, reviews.
+5.2 Knowledge / expertise page
+H1 defines the topic in plain language.
+Short direct answer before deep explanation.
+Entity/concept definitions.
+Relationships to adjacent concepts.
+Framework / methodology.
+Implementation steps.
+Examples and first-hand observations.
+Common mistakes / limitations.
+Related concepts and internal links.
+Relevant service CTA only after sufficient informational value.
+5.3 Case study template
+Section
+Required content
+Context
+Client/industry, market, site state and timeframe
+Problem
+What was limiting growth
+Research
+Entities, search intent, competitors, architecture, technical findings
+Strategy
+Topical map, semantic system, technical plan, content architecture
+Implementation
+What was actually changed
+Measurement
+Metrics, baseline, period and methodology
+Results
+Traffic, impressions, rankings, leads, revenue or AI visibility where applicable
+What worked
+First-hand interpretation
+What failed
+Limits, failed tests, uncertainty
+Lessons
+Reusable insights
+CTA
+Relevant service, training or consultation
+5.4 Experiment template
+Hypothesis
+Why the experiment was run
+Initial state
+Variables changed
+Control / comparison where possible
+Implementation detail
+Observation period
+Results
+Limitations
+Interpretation
+What should be tested next
+6. On-Page SEO Specification
+Every indexable page must have
+Element
+Requirement
+URL
+Stable, readable, short, semantic; avoid unnecessary dates/parameters
+Title tag
+Unique; accurately describes the page; primary topic + modifier where natural
+Meta description
+Unique value proposition; useful for click-through; no keyword stuffing
+H1
+One clear page-level topic/outcome
+Opening answer
+Directly addresses intent in the first section
+H2/H3
+Logical information hierarchy; headings describe real concepts
+Internal links
+Links to parent hub, relevant siblings, proof and next commercial step
+Author / entity
+Identify Bishal Oli where expertise is relevant; link to About/Experience
+Updated date
+Show only when meaningful and supported by actual updates
+Canonical
+Self-canonical unless a legitimate canonical relationship exists
+Open Graph
+Unique social title, description and image
+Breadcrumbs
+For deep pages; maintain a logical hierarchy
+Schema
+Use only accurate structured data types supported by the page
+Semantic content rules
+Write around entities, attributes, relationships, tasks and search intents—not keyword repetition.
+Define the central concept early, then expand through related concepts.
+Use first-hand examples whenever claiming implementation experience.
+Answer the primary task before secondary context.
+Add unique information gain: examples, frameworks, data, screenshots, experiments or original analysis.
+Do not create articles merely because a keyword exists; every page must have an identifiable role in the topical graph.
+Avoid multiple pages targeting the same intent simply because the wording differs.
+7. Nepal Local SEO / Entity Architecture
+Because Nepal is the primary commercial market, local SEO is part of the site's architecture, not an afterthought.
+Local-search frameworkGoogle's current Business Profile guidance says local results are primarily influenced by relevance, distance and prominence; Google also emphasizes complete, accurate business information, review management and real-world representation. citeturn486783search0turn486783search6
+Website ↔ local entity system
+Surface
+Role
+BishalOli.com
+Canonical source of person/business/service information
+Google Business Profile
+Local storefront/entity surface where eligible
+LinkedIn
+Professional person/entity authority
+Professional directories
+Legitimate citation/entity reinforcement
+Reviews
+Trust + local prominence evidence
+Local media / PR
+Prominence and entity associations
+Events / workshops
+Offline evidence and local authority
+Client case studies
+Proof of Nepal experience
+Research on Nepal search
+Original local topical authority
+Local page rules
+National pages come first: SEO Expert Nepal, SEO Consultant Nepal, SEO Services Nepal, Local SEO Nepal and major specialty pages.
+Kathmandu is the first city-level cluster because it is commercially central; publish only pages that have distinct local value.
+Lalitpur, Bhaktapur, Pokhara and other city pages should be evidence-led, not produced by swapping the city name in a template.
+Never invent a local office, false service area, fake review or keyword-stuffed Business Profile name.
+Keep name/address/phone/service-area information consistent across legitimate profiles and the real-world business representation.
+Build local content around real Nepal search behavior, industries, pricing research, case studies and local business problems.
+8. Experience, Evidence & Trust System
+Evidence hierarchy
+First-hand implementation and direct client/project experience.
+Screenshots, before/after data, Search Console/analytics evidence where shareable.
+Methodology and experiments with transparent limitations.
+Client reviews/testimonials that are genuine and attributable.
+External mentions, speaking, interviews and partnerships.
+Educational explanation without unsupported authority claims.
+Author entity requirements
+Consistent name: Bishal Oli.
+Professional headshot used consistently.
+About/Experience page linked from relevant content.
+Clear specialization and experience description.
+Project-specific evidence instead of generic “years of experience” claims alone.
+Use dates and outcomes honestly; avoid inflated or unverifiable metrics.
+9. AI Search Optimization Requirements
+AI Search is a signature expertise area, but the site should describe it as an optimization/research discipline rather than promising deterministic placement.
+Create clear, self-contained definitions and entity descriptions.
+Maintain consistent facts about Bishal Oli across site and legitimate external profiles.
+Publish original research, frameworks, experiments and citations-worthy explanations.
+Make source attribution easy: clear author, publication/update information, references and supporting evidence.
+Use structured data where accurate; do not add schema simply to manipulate visibility.
+Publish measured AI Search experiments with methodology and limitations.
+Never promise guaranteed inclusion, citation or ranking in AI systems.
+10. Technical SEO & Development Specification
+Architecture
+Use clean, stable URLs with logical directories.
+Keep important pages within a shallow, crawlable click path.
+Generate XML sitemap(s) automatically and keep them limited to canonical indexable URLs.
+Use robots.txt only for crawl directives that are actually needed.
+Avoid accidental noindex, canonical conflicts and orphan pages.
+Use breadcrumbs for deep content where they improve orientation.
+Rendering & performance
+Mobile-first responsive implementation.
+Optimize LCP image and above-the-fold media; use modern formats such as AVIF/WebP when appropriate.
+Lazy-load non-critical below-the-fold images.
+Minimize JavaScript and third-party scripts.
+Reserve image dimensions to prevent layout shift.
+Use a CDN and long-lived caching for static assets.
+Set internal performance budgets for JavaScript, CSS, images and fonts; validate with real-user and lab data.
+Accessibility
+Target WCAG 2.2 AA-level accessibility as the implementation standard.
+Keyboard navigability for menus, accordions, forms and dialogs.
+Visible focus states.
+Sufficient text/background contrast.
+Meaningful alt text for informational images; decorative images should be treated as decorative.
+Do not convey meaning through color alone.
+Buttons and links need descriptive labels.
+11. Structured Data / Entity Markup
+Use structured data only when it accurately represents visible, indexable content on the page and follows the relevant search-engine guidelines.
+Page / entity
+Potential schema
+Notes
+Homepage / person
+Person + WebSite
+Connect name, URL, image and relevant professional identity
+Service pages
+Service
+Use where service details are clearly presented
+Articles / guides
+Article
+Identify author, headline, image, publication/update metadata
+Case studies
+Article or appropriate content type
+Do not invent unsupported review/result schema
+Breadcrumbs
+BreadcrumbList
+Reflect actual page hierarchy
+Business / local surface
+Organization / ProfessionalService where accurate
+Use only if the legal/real-world entity supports it
+Contact
+WebPage
+Avoid unnecessary schema complexity
+Schema principleStructured data is an interpretation aid, not a substitute for strong visible content, clear entity identity or local proof.
+12. CRO & Lead Generation System
+Primary conversion hierarchy
+Book / request SEO consultation.
+Work With Me.
+Request an SEO audit.
+Ask about training for an individual/team.
+Contact for partnership/media.
+CTA rules
+Primary CTA: Authority Blue filled button.
+Secondary CTA: transparent/outlined button with blue border.
+CTA copy should state the action: “Book an SEO Consultation,” “See Case Studies,” “Request an SEO Audit.”
+Do not use “Learn More” everywhere.
+Every commercial page should have a relevant CTA above the fold and a final CTA after proof.
+Educational pages should have a soft commercial CTA after delivering the primary answer.
+13. Measurement & Analytics
+Area
+Track
+Organic SEO
+Clicks, impressions, CTR, position, indexed pages, query groups
+Commercial SEO
+Leads, qualified leads, consultation requests, conversion rate
+Local SEO
+GBP visibility/actions where available, discovery/search terms, calls, website actions, direction requests where relevant
+Content
+Organic entrances, engaged sessions, assisted conversions, content decay
+Case studies
+Views, engagement, CTA clicks
+Resources
+Downloads, leads, email/community signups
+AI Search
+Brand/entity mentions, citations, observed inclusion by tracked query set
+Technical
+Core Web Vitals, crawl/indexation issues, errors, JS/client-side issues
+Event taxonomy
+cta_primary_click
+consultation_request_started
+consultation_request_completed
+contact_email_click
+contact_phone_click
+whatsapp_click (if used)
+case_study_view
+resource_download
+training_interest
+newsletter/community_signup
+14. Content Production & Governance
+Page brief required before publishing
+Field
+Required input
+Node ID
+Matches the master sitemap workbook
+URL
+Approved canonical URL
+Primary entity
+The central entity/concept
+Primary intent
+Informational / commercial / transactional / navigational
+Audience
+Specific buyer/learner
+Unique value
+What the page adds that existing pages do not
+Parent / siblings
+Where it belongs in the topical graph
+Internal links
+Required incoming/outgoing links
+Evidence
+What first-hand material is available
+CTA
+Relevant next action
+SEO metadata
+Title, meta, OG, canonical
+Schema
+Approved type(s) if applicable
+Editorial quality gate
+Factually accurate and specific.
+No unsupported claims of experience or results.
+No AI-generated filler or repetitive introductions.
+Original examples, frameworks or observations wherever possible.
+Clear search-intent satisfaction.
+Semantic relationships are explicit and useful.
+Internal links are contextual—not forced.
+The page has a defined role in the sitemap.
+15. Build Order
+Phase
+Build focus
+Priority
+1 — Brand foundation
+Design system, header/footer, typography, colors, global components, analytics, technical base
+P1
+2 — Entity & conversion
+Home, About, Experience, Methodology, Work With Me, Contact, Reviews
+P1
+3 — Nepal commercial
+SEO Expert Nepal, SEO Consultant Nepal, SEO Services Nepal, Local SEO Nepal, Audit, Training
+P1
+4 — Signature expertise
+Semantic SEO, Topical Authority, AI Search, Entity SEO, Technical SEO, Content Architecture
+P1
+5 — Proof
+Case Studies, Results, Experiments
+P1
+6 — Kathmandu
+SEO Expert Kathmandu, SEO Consultant Kathmandu, Local SEO Kathmandu + evidence-led supporting content
+P1/P2
+7 — Education
+Training, advanced guides, resources, templates
+P2
+8 — Industry
+SaaS, e-commerce, travel, trekking, B2B and local-business application pages
+P2/P3
+9 — Research / authority
+Nepal search research, local SEO research, media, speaking, partnerships
+P2/P3
+10 — Geographic expansion
+Lalitpur, Bhaktapur, Pokhara and other cities only where justified
+P3
+16. Global Component Inventory for Developers
+Component
+Required behavior
+Announcement / utility bar
+Optional; never distract from primary CTA
+Header
+Sticky after initial scroll; compact; clear active state
+Mega/dropdown nav
+Use sparingly; keyboard accessible
+Breadcrumbs
+Dynamic for deep pages
+Hero
+H1 + supporting proof + primary/secondary CTA
+Trust bar
+Only verifiable logos/results/reviews
+Stat block
+Source/date/context for meaningful metrics
+Expertise cards
+Link to authoritative hub pages
+Case study card
+Industry + outcome + methodology tag + link
+Testimonial card
+Real client attribution and context
+CTA band
+One clear next action
+FAQ accordion
+Only when genuinely useful; content must be present in page source
+Related topics
+Contextual links based on topical relationship
+Footer
+Entity details, primary links, legal, contact, social
+Lead form
+Few fields; clear privacy notice; validation; success state
+17. Footer & Trust Architecture
+Bishal Oli name/entity statement.
+Business/service information consistent with real-world identity.
+Primary service links.
+SEO expertise links.
+Case studies / Results.
+Training / Resources.
+Contact information.
+Social/professional links.
+Privacy Policy.
+Terms if required.
+Cookie/consent mechanism if required by implementation or jurisdiction.
+18. Pre-Launch QA Checklist
+All P1 URLs exist and have a defined purpose.
+No two P1 commercial pages target the same intent without a deliberate differentiation.
+Every page has one primary topic and clear H1.
+Title tags and meta descriptions are unique.
+Canonical tags resolve correctly.
+XML sitemap includes only canonical indexable URLs.
+robots.txt does not block required assets or important pages.
+No accidental noindex directives.
+Internal links connect hubs, supporting pages, proof and commercial pages.
+Breadcrumbs work on deep pages.
+All important images have dimensions and appropriate alt treatment.
+Mobile navigation is fully usable.
+Keyboard/focus behavior is functional.
+Forms validate and deliver successfully.
+Analytics and conversion events fire correctly.
+Search Console is connected.
+Business Profile website link and business information are accurate.
+Structured data passes validation and reflects visible content.
+Open Graph/Twitter metadata works.
+404 and redirect behavior is tested.
+Core Web Vitals/performance budgets are checked on key templates.
+No lorem ipsum, placeholder content or fake reviews remain.
+All experience/results claims are evidence-backed.
+No generic digital-marketing positioning has leaked into core pages.
+19. Developer Handoff Rules
+Build the global design system before page-specific styling.
+Implement the header, footer, buttons, typography, card and spacing tokens as reusable components.
+Build the homepage and one canonical commercial landing-page template first.
+Build one long-form knowledge-page template and one case-study template.
+Build one geographic landing-page template only after the national template is stable.
+Use data-driven content blocks for repeated card patterns so future sitemap expansion does not require new component code.
+Keep SEO metadata and schema generated from page-level configuration rather than hard-coded into each component.
+Keep canonical URL, breadcrumbs and internal-link structures derived from the approved sitemap.
+Create a design-token layer so the brand can evolve without editing individual pages.
+Do not allow ad-hoc colors, fonts, shadows, border radii or button styles to accumulate.
+20. Recommended Design Tokens
+Token
+Value
+Purpose
+--color-ink-900
+#071A33
+Primary dark
+--color-blue-600
+#1677FF
+Primary action
+--color-gold-500
+#C9A96A
+Premium accent
+--color-ivory-50
+#F7F4EE
+Warm light background
+--color-slate-600
+#526173
+Muted text
+--color-text-900
+#111827
+Primary text
+--color-ice-50
+#EAF3FF
+Soft blue background
+--color-border
+#D9E2EC
+Borders
+--radius-card
+14–16px
+Cards
+--radius-control
+10–12px
+Buttons/inputs
+--shadow-soft
+0 8px 28px rgba(7,26,51,.08)
+Subtle depth
+--container-max
+1200px
+Primary content container
+--content-max
+760px
+Long-form reading width
+--section-y
+96–120px desktop
+Section spacing
+21. Final Strategic Architecture
+Bishal Oli should be represented as a Nepal-first SEO expert/consultant whose authority is centered on Semantic SEO, Topical Authority and AI Search. Technical SEO, Programmatic SEO, Entity SEO, Content Architecture, Search Intent and Lead Generation are supporting systems. Local SEO, Google Business Profile, reviews, Nepal-specific research, Kathmandu evidence and legitimate local mentions build the geographic moat. Case studies and experiments create the proof moat. Training and resources create the audience moat. Consulting and services turn the authority into commercial outcomes.
+Build principleThe site should feel like an expert's operating system for search—not a brochure for an agency.
+22. Reference Sources
+The architecture and brand recommendations are strategic recommendations based on the approved sitemap and project context. The following current Google Business Profile guidance is included for the local-search portions:
+Google Business Profile Help — Improve your local ranking: https://support.google.com/business/answer/7091?hl=en
+Google Business Profile Help — Guidelines for representing your business: https://support.google.com/business/answer/3038177?hl=en
+Google Business Profile Help — How Google sources and uses information: https://support.google.com/business/answer/2721884?hl=en-GB
+Google Search Central — SEO Starter Guide: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
